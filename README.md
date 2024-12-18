@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @Subinesh-Pro
-- 👀 I’m interested in AI, Machine Learning, and app development.
-- 🌱 I’m currently learning Kotlin Multiplatform and AI technologies.
-- 💞️ Looking to collaborate on AI and app development projects.
-- 📫 Reach me on @ur_friend_i_am
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I created a voice assistant using Python and won an Innovators Day competition!
